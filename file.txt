@@ -13,3 +13,8 @@ soci
 hola
 otra
 vez
+b
+a
+ba
+
+ba
